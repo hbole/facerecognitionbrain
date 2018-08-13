@@ -14,7 +14,7 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 const particlesOption={
   particles: {
     number:{
-      value:30,
+      value:10,
       density:{
         enable:true,
         value_area: 180
