@@ -17,7 +17,7 @@ const particlesOption={
       value:30,
       density:{
         enable:true,
-        value_area: 180
+        value_area: 10
       }
     },
     move:{
