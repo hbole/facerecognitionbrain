@@ -41,7 +41,7 @@ class Register extends React.Component {
 			<article className="br2  center ma2">
 			  <div className=" ba pa5 shadow-5 br2">
 			    <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
-			      <legend className="f4 fw6 ph0 mh0">Register</legend>
+			      <legend className="f4 fw6 ph0 mh0 tc">Register</legend>
 			      <div className="mt3">
 			        <label className="db fw6 lh-copy f6" htmlFor="name">Username</label>
 			        <input onChange={this.name} className="pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100" type="text" name="name"  id="name"/>
